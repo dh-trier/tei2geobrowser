@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hans-Eberhard K. aus Wainsdorf an Paul N. nach Münster am 11.09.1977: Trierer Edition</title>
+        <author>Hand-Eberhard K.</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          <date>2019</date>
+        </p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Museumsstiftung Post und Telekommunikation</p>
+        <p>http://www.museumsstiftung.de/briefsammlung/post-von-drueben/brief.html?id=1350</p>
+        <date when-iso="1977-09-11">11.9.1977</date>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <dateline>
+          <placeName ref="tgn/7088163">Wainsdorf</placeName>
+          , den 11.9.77
+        </dateline>
+        <salute>Lieber Paul!</salute>
+        <p>Vor acht Wochen waren wir in Urlaub, wie schnell die Zeit vergeht. Nun haben wir wieder aufgeholt, was alles liegen geblieben war, so ist der Urlaub bald vergessen. Zuerst herzlichen Dank für Deinen Brief vom 2.7. Wie geht es Dir lieber Paul mit Deinem Bein, ja wie schnell ist was passiert, inzwischen wirst Du wohl den Gips wieder los sein. Wir hoffen, daß alles gut verlaufen ist und wünschen beste Genesung. Nun sagt mal`, Ihr Lieben seit denn Ihr nicht verrückt, so eine Aufmachung die Ihr Euren Kunden bietet, die müßten froh sein, daß sie Blumen kaufen könnten. Durch die guten Fotos können wir uns Deinen Betrieb gut vorstellen. Seit uns nicht böse, wir würden gern mal kommen! In Ungarn sind uns viele Urlauber aus der BRD begegnet, haben viel miteinander geschwatzt, man könnte aus der Haut fahren, habt Ihr schöne PKW’s. Hier sieht es folgender Maßen beim Kauf eines PKW’s aus z.B. der Wartburg, Bestellzeit III Quartal 1966 wird jetzt geliefert, Trabant wird jetzt II Quartal 1969 beliefert. Wir haben I 1971 bestellt, so müßten wir noch 3 Jahre warten. Würden wir uns jetzt auf einen Wartburg eintragen lassen, wären wir sicherlich in dieser Zeit Altersrentner. Wir suchen schon 1 Jahr einen Waschbecken, was das für Rennerei kostet. Ein Moped jetzt auch 8 Jahre Wartezeit. Haben uns im Mai einen Fernseher (Bunt) gekauft 3500,00 Mark ohne Zubehör, nun war das Biest schon 5 Mal defekt, was wir dabei erlebt haben glaubt Ihr nicht. Für 3 qm Keramikfließen zur Repar. besitzen wir eine Bescheinigung, ob wir Fließen erhalten ist fraglich. Man müßte jetzt spüren was man bestellen könnte um später damit anderes einzutauschen. Im Intershop gibt es alles, auch unsere Produktion, nur verdienen wir nicht diese Währungen die dort verlangt werden.</p>
+        <p>
+          Ich glaube man darf nicht mehr denken, sonst dreht man durch. Wir wollten nach
+          <placeName ref="tgn/7003712">Berlin</placeName>
+          zur Briefmarkenausstellung, wegen Treibstoffeinsparung bekamen wir keinen Bus. Am Sonnabend haben wir unsere Osterglocken umgesetzt, als wir fertig waren zeigte die Uhr 18 Uhr an, die Edeltrud ist beim Pflaumen und Gurken einwecken, so sind wir ständig ausgelastet. Eine Sendung XX Marken liegen für Dich bereit, werde sie morgen aufgeben. Wegen meiner schlechten Ausdrucksform im letzten Brief, möchte ich noch mal zurückkommen. Ich dachte mir so, da ich die Anerkennung der DDR aufbaue, wollte ich Sätze [?] (billige) aus den Jahren zeigen in den die Anerkennung mit der DDR aufnommen wurde. Z.B. Frankreich seit 9.2.73 deshalb diese Angaben von mir. Es müßten auch andere Ausgaben ihren Zweck verrichten. Solltest Du für diesen Kram keine Zeit haben, bin ich Dir nicht böse. Es ist ein trockenes Gebiet, der Fußball gefiel mir besser. Nun für heute genug, in der Hoffnung, daß Ihr alle vollzählig auf den Beinen seit.
+        </p>
+        <p>Nun wünschen wir Euch alles Gute, und seit alle herzlichst von uns gegrüßt Hans Eberhard und Familie</p>
+      </div>
+    </body>
+  </text>
+</TEI>

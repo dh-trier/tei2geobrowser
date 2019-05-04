@@ -1,0 +1,3 @@
+<?xml version="1.0" ?>
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+<uri resource="file:/home/christof/Dropbox/5-Lehre/2019-Sommer/Datenerschließung/XML-TEI/corpus/Brief-1374-TGN.xml" uri="file:/home/christof/Dropbox/5-Lehre/2019-Sommer/Datenerschließung/XML-TEI/tei_all.rng"/><uri resource="file:/home/christof/Dropbox/5-Lehre/2019-Sommer/Datenerschließung/XML-TEI/corpus/Brief-1449-TGN.xml" uri="file:/home/christof/Dropbox/5-Lehre/2019-Sommer/Datenerschließung/XML-TEI/tei_all.rng"/><include rules="file:/home/christof/.jedit/plugins/xml.XmlPlugin/schemas.xml" /></locatingRules>
